@@ -271,6 +271,7 @@ session_start();
          <div class="card" style="width: 30%; padding-bottom: 30px;">
             <img src=".\img\art1(1).jpg"style="width:100% ">
             <h2>Sun Seeds</h2>
+            <p> hello world</p>
             <p class="price"> RS 19,11,484</p>
             <p>Kits for making interlocking, curved-origami sculptures that change color in the sunlight. 
            </p><br><br><br><br><br>
